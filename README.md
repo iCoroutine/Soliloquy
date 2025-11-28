@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **iCoroutine**
+#  Hey, I'm **iCoroutine**
 
 Developer • Gamer • Future Surgeon ⚕️  
 Learning every day & building whatever I feel like.
@@ -13,12 +13,9 @@ age: 19
 location: India
 roles: ["Student", "Developer", "Valorant Flex Player"]
 goals:
-  - Crack NEET 2026
   - Become a surgeon
   - Master TypeScript & backend dev
-currently_learning: ["TypeScript", "System Design", "Advanced Discord Bots"]
-valorant_agents: ["Omen", "Chamber", "Sova", "Cypher"]
-aim_training: "Aimstars routine + fixed crosshair"
+currently_learning: ["TypeScript", "System Design", "Advanced Discord Bots", "Python", "C++", "Elixlr"]
 ```
 
 ---
@@ -37,16 +34,6 @@ aim_training: "Aimstars routine + fixed crosshair"
 </p>
 
 ---
-
-## 🎮 Gaming
-
-```diff
-+ Valorant flex player
-+ Omen & Chamber enjoyer
-+ Loves clutch moments
-+ Fixed crosshair user
-+ Training: Precision + recoil control
-```
 
 ---
 
