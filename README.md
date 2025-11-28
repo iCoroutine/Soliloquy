@@ -1,8 +1,65 @@
-<a href="https://discord.com/users/1416482615753441291" target="_blank">
-	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/81440962496172032?bg=1f1f1f&borderRadius=5px">
-</a>
-<a href="https://wakatime.com/@iCoroutine" target="_blank">
-	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=iCoroutine&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
-</a>
+# 👋 Hey, I'm **iCoroutine**
 
-I write code.
+Developer • Gamer • Future Surgeon ⚕️  
+Learning every day & building whatever I feel like.
+
+---
+
+## 🧩 About Me
+
+```yaml
+name: "iCoroutine"
+age: 19
+location: India
+roles: ["Student", "Developer", "Valorant Flex Player"]
+goals:
+  - Crack NEET 2026
+  - Become a surgeon
+  - Master TypeScript & backend dev
+currently_learning: ["TypeScript", "System Design", "Advanced Discord Bots"]
+valorant_agents: ["Omen", "Chamber", "Sova", "Cypher"]
+aim_training: "Aimstars routine + fixed crosshair"
+```
+
+---
+
+## ⚡ Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,nodejs,react,express,linux,git,github,vscode)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iCoroutine&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iCoroutine&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🎮 Gaming
+
+```diff
++ Valorant flex player
++ Omen & Chamber enjoyer
++ Loves clutch moments
++ Fixed crosshair user
++ Training: Precision + recoil control
+```
+
+---
+
+## 🔗 Socials
+
+- Instagram: iCoroutine
+- Discord: icoroutine
+
+---
+
+## ✨ Fun Stuff
+
+- Late-night coder  
+- Bots > manual work  
+- Tea + Lofi + TypeScript = happiness  
+- Learning something new every week
